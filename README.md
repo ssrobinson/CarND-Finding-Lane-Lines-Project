@@ -1,5 +1,5 @@
-## *My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Finding-Lane-Lines-Project/blob/master/P1.ipynb)*
-*The remainder of this document originated from the Udacity repo [here](https://github.com/udacity/CarND-LaneLines-P1)*
+## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Finding-Lane-Lines-Project/blob/master/P1.ipynb)
+*The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-LaneLines-P1)*
 
 # **Finding Lane Lines on the Road**
 ---
